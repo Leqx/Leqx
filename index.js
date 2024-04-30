@@ -34,7 +34,7 @@ async function welcome() {
   console.log(`
     ${chalk.bgBlue('💻 I do DevSecOps and FullStack Dev')} 
     Check out my portfolio website to see my work:  ${chalk.underline(
-      `${chalk.cyanBright('https:eugenealex.com')}`
+      `${chalk.cyanBright('https//:eugenealex.me')}`
     )}
 
     ${chalk.blueBright(
