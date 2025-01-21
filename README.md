@@ -9,6 +9,17 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+###### :technologist: Tech Enthusiast | Startup Founder🌟
+
+Crafting scalable, accessible, and user-centric tech solutions. Passionate about TypeScript, React, and design systems.
+🚀 Building with Next.js, Langchain, Terraform, and Docker.
+✨ Startup founder & contributor to open-source projects.
+🎓 Terraform Certified | BBIT Graduate | Always learning and iterating.
+🔭 I’m currently working on my startup [readybaseltd](https://readybaseltd.com)
+📬 Connect with me on [eugenealex.me](https://eugenealex.me)
+
+<!-- 🎭 I'm also artiste [almightyfleqx](https://almightyfleqx.me) -->
+
 # :computer: NPX CARD
 
 This a unique way to connect with me directly via console or terminal
@@ -21,16 +32,16 @@ npx leqx
 
 And get to know me.
 
-<details> 
+<!-- <details>
   <summary><h2>📷  Screenshots</h2></summary>
 
-</details>
+</details> -->
 
-<details> 
-  <summary><h2>🛠️ Favorite Tools</h2></summary>
+<!-- <details>
+  <summary><h2>🛠️ Favorite Tools</h2></summary> -->
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+  <!-- <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -77,9 +88,9 @@ And get to know me.
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
 
-  <h3>💻 Software and Tools</h3>
+  <h3>💻 Software and Tools</h3> -->
 
-  <p>
+  <!-- <p>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
       <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
@@ -97,14 +108,14 @@ And get to know me.
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details>
+</details> -->
 
-<details open> 
-  <summary><h2>📘 Top Projects</h2></summary>
-  
+<!-- <details open>
+  <summary><h2>📘 Top Projects</h2></summary> -->
+
   <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
-</details>
+<!-- <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+</details> -->
 
 <!-- <details>
   <summary><h2>💎 Acknowledgements</h2></summary>
